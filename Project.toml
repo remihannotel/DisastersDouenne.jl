@@ -1,0 +1,7 @@
+name = "DisastersDouenne"
+uuid = "bd136caf-9bc5-4304-9bef-c42557ae11e5"
+authors = ["remihannotel <remi.hannotel@sciencespo.fr>"]
+version = "0.1.0"
+
+[deps]
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
