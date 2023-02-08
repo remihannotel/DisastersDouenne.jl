@@ -10,6 +10,6 @@ We displayed two simple interactive interfaces, by using *Blink.jl*. One for the
 2) disaster() 
 
 **WARNING 1 : the windows open on top of the other** \
-**WARNING 2 : if you click on Figure 1, it might take some time to be displayed. You can go make yourself a very tasteful coffee !** 
+**WARNING 2 : if you click on Figure 1, it might take some time to be displayed. You can make yourself a delicious coffee !** 
 
 *Aurélien Salas and Rémi Hannotel*
